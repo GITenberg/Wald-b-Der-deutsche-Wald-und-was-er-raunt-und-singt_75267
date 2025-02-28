@@ -5,12 +5,17 @@ contributor:
     agent_name: Weingärtner, Willibald
     gutenberg_agent_id: '57914'
     url: http://www.gutenberg.org/2009/agents/57914
+covers:
+- cover_type: archival
+  image_path: 75267-h/images/cover.jpg
 creator:
   editor:
     agent_name: Weber, Dr. Ernst
     gutenberg_agent_id: '57913'
     url: http://www.gutenberg.org/2009/agents/57913
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75267#Wald-b-Der-deutsche-Wald-und-was-er-raunt-und-singt
 gutenberg_issued: '2025-02-01'
 gutenberg_type: Text
 identifiers:
